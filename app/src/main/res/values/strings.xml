@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MiSegundaApp</string>
+    <string name="hello_world" translatable="false">Hello World</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+    <string name="name">Nombre</string>
+    <string name="compra">¿Desea realizar la compra?</string>
+</resources>
